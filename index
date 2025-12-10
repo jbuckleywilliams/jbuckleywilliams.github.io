@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>OSHA Severe Injury Predictive Modeling (2015–2025)</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<header>
+  <h1>OSHA Severe Injury Incidents: Predictive Modeling, Risk Scoring & Data Visualization</h1>
+  <p class="subtitle">Analysis of National OSHA Severe Injury Records (2015–2025)</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="methods.html">Methods</a>
+  <a href="risk-model.html">Risk Score Model</a>
+  <a href="visualizations.html">Visualizations</a>
+  <a href="findings.html">Findings</a>
+  <a href="downloads.html">Downloads</a>
+</nav>
+
+<section>
+  <h2>Overview</h2>
+  <p>
+    This website summarizes a large-scale research study analyzing OSHA severe injury reports 
+    from January 2015 through December 2022. Using Tableau and R Studio, the research 
+    combines descriptive analytics, predictive modeling, and a comprehensive 0–100 risk score 
+    framework to forecast severe injury risks for 2023–2025.
+  </p>
+
+  <p>
+    The study identifies geographic and temporal injury patterns, constructs Negative Binomial 
+    regression models, and creates a forward-looking risk score capable of guiding regulators, 
+    employers, and insurance providers in proactive safety decision-making.
+  </p>
+
+  <h2>Why This Matters</h2>
+  <p>
+    OSHA’s severe injury dataset offers a rich but underutilized source of safety intelligence. 
+    By transforming raw historical incidents into predictive insights and interpretable risk scores, 
+    organizations can move from reactive responses to proactive prevention. This website 
+    presents those findings in an accessible and interactive format.
+  </p>
+</section>
+
+<footer>
+  <p>© 2025 Jasmine Buckley-Williams — SDSU BDA 797 Research</p>
+</footer>
+</body>
+</html>
