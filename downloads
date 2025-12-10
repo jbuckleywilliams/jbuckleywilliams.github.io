@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Downloads</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<header>
+  <h1>Downloadable Files</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="methods.html">Methods</a>
+  <a href="risk-model.html">Risk Score Model</a>
+  <a href="visualizations.html">Visualizations</a>
+  <a href="findings.html">Findings</a>
+  <a href="downloads.html">Downloads</a>
+</nav>
+
+<section>
+  <h2>Available Resources</h2>
+  <ul>
+    <li><a href="report.pdf">Full Report (PDF)</a></li>
+    <li><a href="data-cleaning-script.R">R Data Cleaning Script</a></li>
+    <li><a href="risk-score-script.R">Risk Score Generation Script</a></li>
+    <li><a href="forecasting-script.R">Forecasting Script</a></li>
+    <li><a href="images/risk_model_figure.png">Risk Model Figure</a></li>
+  </ul>
+</section>
+
+<footer>
+  <p>© 2025 Jasmine Buckley-Williams</p>
+</footer>
+</body>
+</html>
