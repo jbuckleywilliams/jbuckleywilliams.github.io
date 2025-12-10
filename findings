@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Key Findings</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<header>
+  <h1>Key Findings & Interpretation</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="methods.html">Methods</a>
+  <a href="risk-model.html">Risk Score Model</a>
+  <a href="visualizations.html">Visualizations</a>
+  <a href="findings.html">Findings</a>
+  <a href="downloads.html">Downloads</a>
+</nav>
+
+<section>
+  <h2>Geographic Patterns</h2>
+  <p>
+    Texas, California, Florida, New York, and Illinois consistently experience the highest 
+    concentrations of severe injuries, driven by industrial composition, population, and 
+    seasonal labor patterns.
+  </p>
+
+  <h2>Temporal Trends</h2>
+  <p>
+    Summer months (May–August) exhibit predictable spikes due to increased construction 
+    and outdoor labor. The COVID-19 period (2020) shows a notable dip and rebound.
+  </p>
+
+  <h2>Predictive Implications</h2>
+  <p>
+    The Negative Binomial model successfully anticipates future incident patterns. Employers 
+    can use risk scores to schedule interventions, and regulators can prioritize inspections 
+    based on forecasted risk levels.
+  </p>
+
+  <h2>Operational Guidance</h2>
+  <p>
+    Scores above 70 for two consecutive months prompt inspector deployment; scores above 
+    50 trigger employer safety plan updates; insurers may apply surcharges or safety program 
+    requirements for scores above 50.
+  </p>
+</section>
+
+<footer>
+  <p>© 2025 Jasmine Buckley-Williams</p>
+</footer>
+</body>
+</html>
